@@ -27,7 +27,6 @@ nav{
 }
 nav>.container{
     padding: 40px 32px 40px 60px;
-    border: 1px solid black;
     display: flex;
     justify-content: space-between;
     align-items: center;
